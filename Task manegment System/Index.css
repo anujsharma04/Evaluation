@@ -1,0 +1,16 @@
+#container{
+    width: 70%;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(3 ,1fr);
+    grid-gap: 20px;
+}
+#card{
+   
+    border: 2px solid blue;
+    padding: 20px;
+}
+.btn{
+    text-align: center;
+    margin: 20px 0;
+}
